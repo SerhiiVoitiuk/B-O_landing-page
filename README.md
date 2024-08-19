@@ -7,7 +7,9 @@ All content is responsive and looks attractive thanks to modern design principle
 
 **HTML:** For structuring the webpage.
 
-**SCSS:** For advanced styling, using mixins and variables for better code organization and maintenance.
+**SCSS:** For advanced styling, using mixins and modular file structures for better code organization and maintenance.
+
+**JavaScript:** For dynamic interactions, animations, and enhancing user experience.
 
 **Demo**
   - [DEMO LINK](https://serhiivoitiuk.github.io/B-O_landing-page/)
