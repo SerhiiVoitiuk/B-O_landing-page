@@ -11,5 +11,6 @@ All content is responsive and looks attractive thanks to modern design principle
 
 **Demo**
   - [DEMO LINK](https://serhiivoitiuk.github.io/B-O_landing-page/)
+
 **Project design link**
-  - https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=vTv5uSZwkJh8rcUL-0
+  - [BO landing](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=vTv5uSZwkJh8rcUL-0)
