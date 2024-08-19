@@ -1,4 +1,13 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Project Overview
+
+This project involves creating a landing page for B&O. The page includes sections with recommended products, product categories, company information and a contact form. 
+All content is responsive and looks attractive thanks to modern design principles.
+
+**Technologies Used **
+HTML: For structuring the webpage.
+SCSS: For advanced styling, using mixins and variables for better code organization and maintenance.
+
+**Demo**
+  - [DEMO LINK]([https://serhiivoitiuk.github.io/B-O_landing-page/])
+**Project design link**
+  - https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=vTv5uSZwkJh8rcUL-0
